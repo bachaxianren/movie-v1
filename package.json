@@ -7,7 +7,10 @@
   },
   "dependencies": {
     "express": "3.2.6",
-    "jade": "*"
+    "jade": "*",
+    "moment": "^2.12.0",
+    "mongoose": "^4.4.10",
+    "underscore": "^1.8.3"
   },
   "description": "Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)\r  ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))",
   "main": "app.js",
